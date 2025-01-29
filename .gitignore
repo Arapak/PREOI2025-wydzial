@@ -1,0 +1,6 @@
+*.e
+*.o
+*.in
+!in/wyd0*.in
+*.out
+*.txt
